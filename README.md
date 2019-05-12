@@ -16,3 +16,6 @@ ui.nsh 第70行
 install.xml 24-32行
 
 - 5、bat中删除文件时先判断是否存在
+
+- 6、bat中遍历源程序文件夹时先判断是否为空：
+makensiscode.bat 45行
