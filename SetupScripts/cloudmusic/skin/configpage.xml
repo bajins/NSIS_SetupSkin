@@ -17,7 +17,7 @@
       </HorizontalLayout>
 	  
 	 <HorizontalLayout height="23" padding="40,5,80,0">
-        <Label font="0" textcolor="#FF999999" width="150" text="所需空间：87.3M" />
+        <Label font="0" name="space_required" textcolor="#FF999999" width="150"/>
 		<Label font="0" name="local_space" width="150" textcolor="#FF999999"  />
 		<Control />
      </HorizontalLayout>

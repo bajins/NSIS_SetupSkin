@@ -34,6 +34,7 @@ makensiscode.bat 第45行
 songliwu.nsi 6-10行
 
 - 8、[修改卸载时的提示语中产品名称自动使用变量值](https://github.com/woytu/NSIS_SetupSkin/commit/eeb250b12f9af7851d79d69d8f68608d2e858d6a)
+- 9、所需空间大小使用函数计算FilesToInstall文件夹大小，不再需要手动输入配置
 
 
 ## 目录结构
