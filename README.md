@@ -13,8 +13,8 @@ NSIS打包工具，基于XML可自定义UI，基于[NSIS-UI](https://github.com/
 
 ## 修改如下：
 - 1、修改目录结构，使项目更加规范：
-> 对图片文件统一归纳
-> 对编译bat文件针对每个程序目录放在该目录下
+  - 对图片文件统一归纳
+  - 对编译bat文件针对每个程序目录放在该目录下
 
 - 2、修改函数调用，使项目更加规范，例如：
 ui.nsh 73-76行
@@ -34,7 +34,7 @@ makensiscode.bat 第45行
 songliwu.nsi 6-10行
 
 - 8、[修改卸载时的提示语中产品名称自动使用变量值](https://github.com/woytu/NSIS_SetupSkin/commit/eeb250b12f9af7851d79d69d8f68608d2e858d6a)
-- 9、所需空间大小使用函数计算FilesToInstall文件夹大小，不再需要手动输入配置
+- 9、[所需空间大小使用函数计算FilesToInstall文件夹大小，不再需要手动输入配置](https://github.com/woytu/NSIS_SetupSkin/commit/607abd9502800aac91ba15bb22b0f591a88c5ca0)
 
 
 ## 目录结构
