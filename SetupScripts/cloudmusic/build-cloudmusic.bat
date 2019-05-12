@@ -11,6 +11,9 @@ cd /d %~dp0
 
 cd /d %~dp0
 
+@rem 如果打包好的程序输出文件夹不存在则创建
+if not exist "..\..\Output" md "..\..\Output"
+
 "..\..\NSIS\makensis.exe" ".\cloudmusic.nsi"
 
 @rem 如果要调试错误，请使用下面的脚本，这样会打开编译界面（命令行界面中文会显示成?号）
