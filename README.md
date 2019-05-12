@@ -33,7 +33,7 @@ makensiscode.bat 第45行
 - 7、产品信息使用变量，避免输入多次可能输错：
 songliwu.nsi 6-10行
 
-- 8、[修改卸载时的提示语中产品名称自动使用变量值](/commit/eeb250b12f9af7851d79d69d8f68608d2e858d6a)
+- 8、[修改卸载时的提示语中产品名称自动使用变量值](https://github.com/woytu/NSIS_SetupSkin/commit/eeb250b12f9af7851d79d69d8f68608d2e858d6a)
 
 
 ## 目录结构
