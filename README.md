@@ -105,3 +105,9 @@ songliwu.nsi 6-10行
             │  
             └─form                             公共文件，比如公用图片
 ```
+
+![](/images/打包好的程序信息.png)
+![](/images/网易云音乐示例.png)
+![](/images/网易云音乐许可协议页面.png)
+![](/images/有复选框UI.png)
+![](/images/有复选框UI许可协议页面.png)
