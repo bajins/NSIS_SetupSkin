@@ -105,7 +105,7 @@ nsNiuniuSkin::ShowSkinSubPage 0
 ```nsh
 nsNiuniuSkin::SetControlAttribute $hInstallDlg "btnClose" "enabled" "false"
 nsNiuniuSkin::SetControlAttribute $hInstallDlg "lblInstalling" "text" "正在卸载..."
-``
+```
 > 此接口用于指定界面的指定元素的指定属性，比如：是否可用、是否可见、是否选中、文字、背景图等等
 
 ### 参数说明：
