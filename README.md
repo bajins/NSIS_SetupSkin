@@ -1,3 +1,5 @@
+@[TOC](NSIS_SetupSkin)
+
 # NSIS_SetupSkin
 NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://github.com/hilanmiao/NSIS-UI)找到[nsNiuniuSkin](http://www.ggniu.cn/download.htm)修改而来
 
