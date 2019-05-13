@@ -1,5 +1,5 @@
 # NSIS_SetupSkin
-NSIS打包工具，基于XML可自定义UI，基于[NSIS-UI](https://github.com/hilanmiao/NSIS-UI)修改而来
+NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://github.com/hilanmiao/NSIS-UI)找到[nsNiuniuSkin](http://www.ggniu.cn/download.htm)修改而来
 
 > 该安装包界面控件是一个可集成于NSIS的插件，采用Duilib开发，在使用时，安装包制作者只需要做如下两件事情：
 >> 1. 通过配置Duilib的资源，设计好界面显示的元素
