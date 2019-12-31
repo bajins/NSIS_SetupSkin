@@ -1,4 +1,5 @@
 # NSIS_SetupSkin
+
 NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://github.com/hilanmiao/NSIS-UI)找到[nsNiuniuSkin](http://www.ggniu.cn/download.htm)修改而来
 
 > 该安装包界面控件是一个可集成于NSIS的插件，采用Duilib开发，在使用时，安装包制作者只需要做如下两件事情：
@@ -16,39 +17,54 @@ NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://githu
 
 
 
-## [使用方法](/使用方法.md)
+* [使用方法](/使用方法.md)
 
-### 由于软件目录包太大，故项目中不再上传软件目录包，[下载软件目录包](https://www.woytu.com/?dir=PacketTool/software-pkg)
+* [api](/api.md)
 
-## [api](/api.md)
+**由于软件目录包太大，故项目中不再上传软件目录包，下载软件目录包见：**
 
-## 修改如下：
+* [https://www.woytu.com/?dir=PacketTool/software-pkg](https://www.woytu.com/?dir=PacketTool/software-pkg)
+
+* [https://gd.woytu.workers.dev/file/PacketTool/software-pkg](https://gd.woytu.workers.dev/file/PacketTool/software-pkg)
+
+* [https://yinkss-my.sharepoint.com/:f:/g/personal/claer_simplove_eu_org/En4SJNSpmnpEjKiuwfVW2wYBJEuUCtF8p5gjA970Y2qK8Q](https://yinkss-my.sharepoint.com/:f:/g/personal/claer_simplove_eu_org/En4SJNSpmnpEjKiuwfVW2wYBJEuUCtF8p5gjA970Y2qK8Q)
+
+
+## 修改如下
+
 - 1、修改目录结构，使项目更加规范：
   - 对图片文件统一归纳
   - 对编译bat文件针对每个程序目录放在该目录下
 
 - 2、修改函数调用，使项目更加规范，例如：
-ui.nsh 73-76行
+
+> ui.nsh 73-76行
 
 - 3、修改函数中代码块语句错误的bug：
-ui.nsh 第70行
+
+> ui.nsh 第70行
 
 - 4、UI中白色背景时白色按钮不显示修改为黑色按钮可显示：
-install.xml 24-32行
+
+> install.xml 24-32行
 
 - 5、bat中删除文件时先判断是否存在
 
 - 6、bat中遍历源程序文件夹时先判断是否为空：
-makensiscode.bat 第45行
+
+> makensiscode.bat 第45行
 
 - 7、产品信息使用变量，避免输入多次可能输错：
-songliwu.nsi 6-10行
+
+> songliwu.nsi 6-10行
 
 - 8、[修改卸载时的提示语中产品名称自动使用变量值](https://github.com/woytu/NSIS_SetupSkin/commit/eeb250b12f9af7851d79d69d8f68608d2e858d6a)
+
 - 9、[所需空间大小使用函数计算FilesToInstall文件夹大小，不再需要手动输入配置](https://github.com/woytu/NSIS_SetupSkin/commit/607abd9502800aac91ba15bb22b0f591a88c5ca0)
 
 
 ## 目录结构
+
 ```
 .
 │  7z.dll                                   7z压缩dll
