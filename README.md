@@ -29,7 +29,7 @@ NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://githu
 
 * [https://www.woytu.com/?dir=PacketTool/software-pkg](https://www.woytu.com/?dir=PacketTool/software-pkg)
 
-* [https://gd.woytu.workers.dev/file/PacketTool/software-pkg](https://gd.woytu.workers.dev/file/PacketTool/software-pkg)
+* [https://gd.woytu.workers.dev/file/PacketTool/software-pkg/](https://gd.woytu.workers.dev/file/PacketTool/software-pkg/)
 
 * [https://yinkss-my.sharepoint.com/:f:/g/personal/claer_simplove_eu_org/En4SJNSpmnpEjKiuwfVW2wYBJEuUCtF8p5gjA970Y2qK8Q](https://yinkss-my.sharepoint.com/:f:/g/personal/claer_simplove_eu_org/En4SJNSpmnpEjKiuwfVW2wYBJEuUCtF8p5gjA970Y2qK8Q)
 
