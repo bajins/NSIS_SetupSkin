@@ -9,6 +9,14 @@ NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://githu
 
 > 在控件的资源中，采用的是通过TAB控件来实现不同阶段的安装界面，比如：选择路径、许可协议、安装进度、完成、卸载等，在实际使用中，通过NSIS脚本来设置当前需要显示的TAB页，即可完美的呈现出需要的界面UI了。
 
+
+
+* [使用方法](/使用方法.md)
+
+* [api](/api.md)
+
+
+
 ## 关于nsNiuniuSkin License
 
 * [http://www.ggniu.cn/articles/nsniuniuskin.html](http://www.ggniu.cn/articles/nsniuniuskin.html)
@@ -16,10 +24,6 @@ NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://githu
 > nsNiuniuSkin是目前国内最专业的安装包UI控件，与NSIS完美融合。同时它也是一个完全免费的安装包UI控件，无任何的使用限制。我们的目标是让稍微有一点NSIS基础的人在一天内完成一个安装包制作。
 
 
-
-* [使用方法](/使用方法.md)
-
-* [api](/api.md)
 
 **由于软件目录包太大，故项目中不再上传软件目录包，下载软件目录包见：**
 
