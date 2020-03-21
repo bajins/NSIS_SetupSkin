@@ -17,6 +17,15 @@ NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://githu
 
 
 
+## NSIS
+
+* [https://sourceforge.net/projects/nsis)(https://sourceforge.net/projects/nsis)
+* [https://nsis.sourceforge.io/Category:Plugins](https://nsis.sourceforge.io/Category:Plugins)
+
+* [https://sourceforge.net/projects/hmne](https://sourceforge.net/projects/hmne)
+* [http://hmne.sourceforge.net](http://hmne.sourceforge.net)
+
+
 ## 关于nsNiuniuSkin License
 
 * [http://www.ggniu.cn/articles/nsniuniuskin.html](http://www.ggniu.cn/articles/nsniuniuskin.html)
