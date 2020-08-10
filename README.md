@@ -36,7 +36,7 @@ NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://githu
 
 **下载软件目录包：**
 
-* [https://gd.bajins.com/PacketTool/software-pkg/](https://www.bajins.com/PacketTool/software-pkg/)
+* [https://gd.bajins.com/PacketTool/software-pkg/](https://gd.bajins.com/PacketTool/software-pkg/)
 
 * [https://od.bajins.com](https://od.bajins.com)
 
