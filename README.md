@@ -29,6 +29,7 @@ NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://githu
 ## 关于nsNiuniuSkin License
 
 * [http://www.ggniu.cn/articles/nsniuniuskin.html](http://www.ggniu.cn/articles/nsniuniuskin.html)
+* [http://www.leeqia.com/nsniuniuskin/download](http://www.leeqia.com/nsniuniuskin/download)
 
 > nsNiuniuSkin是目前国内最专业的安装包UI控件，与NSIS完美融合。同时它也是一个完全免费的安装包UI控件，无任何的使用限制。我们的目标是让稍微有一点NSIS基础的人在一天内完成一个安装包制作。
 
