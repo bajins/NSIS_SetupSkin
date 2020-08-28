@@ -12,21 +12,13 @@ NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://githu
 
 
 * [使用方法](/使用方法.md)
-
 * [api](/api.md)
 
 
-
-## NSIS
-
-* [https://sourceforge.net/projects/nsis](https://sourceforge.net/projects/nsis)
-* [https://nsis.sourceforge.io/Category:Plugins](https://nsis.sourceforge.io/Category:Plugins)
-
-* [https://sourceforge.net/projects/hmne](https://sourceforge.net/projects/hmne)
-* [http://hmne.sourceforge.net](http://hmne.sourceforge.net)
+**[更多打包工具](https://www.bajins.com/Other/Windows%E8%BD%AF%E4%BB%B6.html#%E7%A8%8B%E5%BA%8F%E6%89%93%E5%8C%85)**
 
 
-## 关于nsNiuniuSkin License
+**关于nsNiuniuSkin License**
 
 * [http://www.ggniu.cn/articles/nsniuniuskin.html](http://www.ggniu.cn/articles/nsniuniuskin.html)
 * [http://www.leeqia.com/nsniuniuskin/download](http://www.leeqia.com/nsniuniuskin/download)
@@ -38,8 +30,18 @@ NSIS打包工具，基于XML可自定义UI，通过项目[NSIS-UI](https://githu
 **下载软件目录包：**
 
 * [https://gd.bajins.com/PacketTool/software-pkg/](https://gd.bajins.com/PacketTool/software-pkg/)
-
 * [https://od.bajins.com](https://od.bajins.com)
+
+
+
+## NSIS
+
+* [https://sourceforge.net/projects/nsis](https://sourceforge.net/projects/nsis)
+* [https://nsis.sourceforge.io/Category:Plugins](https://nsis.sourceforge.io/Category:Plugins)
+* [https://sourceforge.net/projects/hmne](https://sourceforge.net/projects/hmne)
+* [http://hmne.sourceforge.net](http://hmne.sourceforge.net)
+
+
 
 
 ## 修改如下
