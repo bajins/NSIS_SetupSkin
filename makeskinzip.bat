@@ -2,7 +2,7 @@ cd /d %~dp0
 
 if exist ".\SetupScripts\%1\skin.zip" del /f ".\SetupScripts\%1\skin.zip"
 
-rem Éú³Éskin.zip¿ªÊ¼
+rem ç”Ÿæˆskin.zipå¼€å§‹
 7z.exe a ".\SetupScripts\%1\skin.zip" ".\SetupScripts\%1\skin\*.*"
 
 @set DestPath=%cd%\SetupScripts\%1\skin\
@@ -13,4 +13,4 @@ for /f "delims=" %%a in ('dir /ad/b %DestPath%') do (
 @echo "compressing .\SetupScripts\%1\skin\%%a"
 )
 
-rem Éú³Éskin.zip½áÊø
+rem ç”Ÿæˆskin.zipç»“æŸ

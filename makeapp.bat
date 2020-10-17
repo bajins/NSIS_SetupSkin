@@ -2,7 +2,7 @@ cd /d %~dp0
 
 if exist ".\SetupScripts\app.7z" del /f ".\SetupScripts\app.7z"
 
-rem Éú³Éapp.7z¿ªÊ¼
+rem ç”Ÿæˆapp.7zå¼€å§‹
 7z.exe a ".\SetupScripts\app.7z" ".\FilesToInstall\*.*"
 
 @set DestPath=%cd%\FilesToInstall\
@@ -13,4 +13,4 @@ for /f "delims=" %%a in ('dir /ad/b %DestPath%') do (
 @echo "compressing .\FilesToInstall\%%a"
 )
 
-rem Éú³Éapp.7z½áÊø
+rem ç”Ÿæˆapp.7zç»“æŸ
